@@ -1,0 +1,9 @@
+kaggle
+xgboost
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn
+joblib
+streamlit
