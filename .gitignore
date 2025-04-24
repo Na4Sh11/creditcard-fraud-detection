@@ -1,4 +1,4 @@
 # Ignore virtual environment folder
 venv/
-kaggle.json
+.kaggle/
 data/cerditcard.csv
